@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="m_pay">M-Pay</string>
+    <string name="francismwakidoshi_gmail_com_com">francismwakidoshi@gmail.com.com</string>
+</resources>
